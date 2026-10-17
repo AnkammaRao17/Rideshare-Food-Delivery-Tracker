@@ -1,0 +1,29 @@
+# Environment Variables
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Streamlit config / cache
+.streamlit/secrets.toml
+
+# IDE settings
+.idea/
+.vscode/
+
+# Testing and Coverage
+.coverage
+htmlcov/
+
+# Operating system files
+.DS_Store
+Thumbs.db
